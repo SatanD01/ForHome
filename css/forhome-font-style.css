@@ -1,0 +1,126 @@
+@font-face {
+  font-family: 'forhome';
+  src:  url('../fonts/forhome.eot?w6gsut');
+  src:  url('../fonts/forhome.eot?w6gsut#iefix') format('embedded-opentype'),
+    url('../fonts/forhome.ttf?w6gsut') format('truetype'),
+    url('../fonts/forhome.woff?w6gsut') format('woff'),
+    url('../fonts/forhome.svg?w6gsut#forhome') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'forhome' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-sertificate-ico:before {
+  content: "\e91c";
+}
+.icon-handmoney-ico:before {
+  content: "\e91d";
+}
+.icon-cup-ico:before {
+  content: "\e91e";
+}
+.icon-plus-ico:before {
+  content: "\e900";
+}
+.icon-slider-ar-right:before {
+  content: "\e901";
+}
+.icon-minus-ico:before {
+  content: "\e902";
+}
+.icon-googleplus-ico:before {
+  content: "\e903";
+}
+.icon-file-ico:before {
+  content: "\e904";
+}
+.icon-twitter-ico:before {
+  content: "\e905";
+}
+.icon-cancel-ico:before {
+  content: "\e906";
+}
+.icon-callcenter-ico:before {
+  content: "\e907";
+}
+.icon-grouplist-ico:before {
+  content: "\e920";
+}
+.icon-location-ico:before {
+  content: "\e91f";
+}
+.icon-world-ico:before {
+  content: "\e908";
+}
+.icon-trucktime-ico:before {
+  content: "\e909";
+}
+.icon-truck-ico:before {
+  content: "\e90a";
+}
+.icon-smartphone-ico:before {
+  content: "\e90b";
+}
+.icon-shoptruck-ico:before {
+  content: "\e90c";
+}
+.icon-search-ico:before {
+  content: "\e90d";
+}
+.icon-phone-ico:before {
+  content: "\e90e";
+}
+.icon-person-ico:before {
+  content: "\e90f";
+}
+.icon-heart-ico:before {
+  content: "\e910";
+}
+.icon-grouplistimg-ico:before {
+  content: "\e911";
+}
+.icon-groupblock-ico:before {
+  content: "\e912";
+}
+.icon-graphchart-ico:before {
+  content: "\e913";
+}
+.icon-facebook-ico:before {
+  content: "\e914";
+}
+.icon-doc-ico:before {
+  content: "\e915";
+}
+.icon-burger-ico:before {
+  content: "\e916";
+}
+.icon-boxesup-ico:before {
+  content: "\e917";
+}
+.icon-boxes-ico:before {
+  content: "\e918";
+}
+.icon-bag-ico:before {
+  content: "\e919";
+}
+.icon-ar-right:before {
+  content: "\e91a";
+}
+.icon-accept-ico:before {
+  content: "\e91b";
+}

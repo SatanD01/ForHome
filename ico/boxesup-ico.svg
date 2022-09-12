@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Прямоугольник_2999" data-name="Прямоугольник 2999" width="14" height="14" transform="translate(1075 570)" fill="#fb5f17"/>
+    </clipPath>
+  </defs>
+  <g id="Группа_масок_320" data-name="Группа масок 320" transform="translate(-1075 -570)" clip-path="url(#clip-path)">
+    <g id="lift" transform="translate(1075 570)">
+      <g id="Сгруппировать_3497" data-name="Сгруппировать 3497">
+        <g id="Сгруппировать_3496" data-name="Сгруппировать 3496">
+          <rect id="Прямоугольник_3030" data-name="Прямоугольник 3030" width="4.649" height="10.72" transform="translate(0 1.64)" fill="#fb5f17"/>
+        </g>
+      </g>
+      <g id="Сгруппировать_3499" data-name="Сгруппировать 3499">
+        <g id="Сгруппировать_3498" data-name="Сгруппировать 3498">
+          <rect id="Прямоугольник_3031" data-name="Прямоугольник 3031" width="4.649" height="10.72" transform="translate(5.47 1.64)" fill="#fb5f17"/>
+        </g>
+      </g>
+      <g id="Сгруппировать_3501" data-name="Сгруппировать 3501">
+        <g id="Сгруппировать_3500" data-name="Сгруппировать 3500">
+          <path id="Контур_2449" data-name="Контур 2449" d="M12.55,2.722,11.1,4.173l.58.58.46-.46V5.764h.82V4.293l.46.46.58-.58Z" fill="#fb5f17"/>
+        </g>
+      </g>
+      <g id="Сгруппировать_3503" data-name="Сгруппировать 3503">
+        <g id="Сгруппировать_3502" data-name="Сгруппировать 3502">
+          <path id="Контур_2450" data-name="Контур 2450" d="M13.42,9.247l-.46.46V8.236h-.82V9.707l-.46-.46-.58.58,1.45,1.45L14,9.828Z" fill="#fb5f17"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

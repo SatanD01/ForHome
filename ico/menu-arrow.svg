@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Прямоугольник_2974" data-name="Прямоугольник 2974" width="6" height="6" transform="translate(364 266)" fill="#0a162f"/>
+    </clipPath>
+  </defs>
+  <g id="Сгруппировать_3327" data-name="Сгруппировать 3327" transform="translate(-358 -260)">
+    <g id="Эллипс_208" data-name="Эллипс 208" transform="translate(358 260)" fill="#fff" stroke="#ebeff2" stroke-width="1">
+      <circle cx="10" cy="10" r="10" stroke="none"/>
+      <circle cx="10" cy="10" r="9.5" fill="none"/>
+    </g>
+    <g id="Группа_масок_304" data-name="Группа масок 304" transform="translate(1 1)" clip-path="url(#clip-path)">
+      <g id="next" transform="translate(365.109 266)">
+        <path id="Контур_2365" data-name="Контур 2365" d="M5.118,2.653,2.607.146a.484.484,0,0,0-.693,0L1.621.435a.472.472,0,0,0-.143.347.493.493,0,0,0,.143.35L3.493,3,1.621,4.872a.472.472,0,0,0-.142.347.493.493,0,0,0,.142.35l.293.289a.493.493,0,0,0,.693,0L5.118,3.35A.493.493,0,0,0,5.261,3,.472.472,0,0,0,5.118,2.653Z" transform="translate(-1.479 0)" fill="#0a162f"/>
+      </g>
+    </g>
+  </g>
+</svg>

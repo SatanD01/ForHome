@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="12" viewBox="0 0 12 12">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Прямоугольник_2974" data-name="Прямоугольник 2974" width="12" height="12" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Группа_масок_304" data-name="Группа масок 304" clip-path="url(#clip-path)">
+    <g id="next" transform="translate(2.218)">
+      <path id="Контур_2365" data-name="Контур 2365" d="M1.764,5.307,6.786.293a.967.967,0,0,1,1.386,0L8.757.87a.943.943,0,0,1,.285.693.986.986,0,0,1-.285.7L5.014,6,8.758,9.743a.943.943,0,0,1,.285.693.986.986,0,0,1-.285.7l-.585.578a.986.986,0,0,1-1.386,0L1.764,6.7A.986.986,0,0,1,1.479,6,.943.943,0,0,1,1.764,5.307Z" transform="translate(-1.479 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

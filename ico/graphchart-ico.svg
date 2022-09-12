@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Прямоугольник_2943" data-name="Прямоугольник 2943" width="14" height="14" transform="translate(1121 828)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Группа_масок_299" data-name="Группа масок 299" transform="translate(-1121 -828)" clip-path="url(#clip-path)">
+    <g id="bar-chart" transform="translate(1121 828)">
+      <g id="Сгруппировать_3323" data-name="Сгруппировать 3323">
+        <g id="Сгруппировать_3322" data-name="Сгруппировать 3322">
+          <path id="Контур_2355" data-name="Контур 2355" d="M.491,7.181A.49.49,0,0,0,0,7.669V12.8a.491.491,0,0,0,.491.491H3.717a.489.489,0,0,0,.488-.491V7.669a.488.488,0,0,0-.488-.488Z" fill="#fff"/>
+          <path id="Контур_2356" data-name="Контур 2356" d="M14,12.8V4.7a.491.491,0,0,0-.491-.491H10.283a.491.491,0,0,0-.491.491v8.1a.491.491,0,0,0,.491.491h3.226A.49.49,0,0,0,14,12.8Z" fill="#fff"/>
+          <path id="Контур_2357" data-name="Контур 2357" d="M8.613,13.291A.489.489,0,0,0,9.1,12.8V1.2A.49.49,0,0,0,8.613.709H5.387A.491.491,0,0,0,4.9,1.2V12.8a.491.491,0,0,0,.491.491Z" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
